@@ -54,7 +54,7 @@ Wenn du Idee und Anregung hast, schreib uns gerne eine Mail an lebendigedoerfer@
 
 ## Programm
 
-Das vorläufige Programm findet ihr [hier](https://teamup.com/ksw5d6wtwhucgfrage) \\
+Das vorläufige Programm findet ihr [hier](https://teamup.com/ksw5d6wtwhucgfrage) <br />
 Es ist noch genügend Platz für spontane Aktionen und Diskussionen. Das Programm befindet sich im stetigen Wandel und wird vor Ort stets ergänzt und verändert werden können.
 
 ## Hygiene
