@@ -39,14 +39,30 @@ Aufbau des Sonnensegels der [Segelmanufaktur](http://segelmanufaktur.de/)
   * wenn du einen Workshop anbieten möchtest, bringe möglichst alles dafür mit. Wir werden versuchen, dich bei der Durchführung (Material, Technik etc.) deines Workshops zu unterstützen. Lass uns wissen, was dir vorschwebt, was du dafür brauchst und gerne auch wann es dir passen würde.
 * Kopflampe für nächtliche Toilettengänge
 * Mundschutz
+* Bitte bringt vorsichtshalber eure Impfausweise mit. Wenn ihr euch vorher nochmal testen lasst oder selbst testet, wäre das großartig!
+* Anti-Mücken/Zecken-Mittel
 * Kuchen und/oder Aufstriche
 * Musikinstrumente (und andere Instrumente?!)
+* Öko-Shampoo/Waschstück (seifenfrei) zum Baden in der Saale
+* **Tassen (Wir werden nicht genügend Tassen für alle Gäste haben, daher bringt bitte eure eigenen mit)**
 * Gute Laune!
 
 ## Mitmachen
 
 Alle Teilnehmenden beteiligen sich in der Regel am Auf-, Um- und Abbau, helfen beim Kochen, Putzen und Aufräumen. Wir bitten um einen achtsamen Umgang miteinander und behalten uns das Recht vor, Querdenker\*innen, Rassist\*innen und Sexist\*innen von der Veranstaltung auszuschließen. Wir wünschen uns dieses Jahr vermehrt Workshops für Kinder und Jugendliche. Kinderbetreuung soll fester Bestandteil des Programms werden.
 Wenn du Idee und Anregung hast, schreib uns gerne eine Mail an lebendigedoerfer@wichmar.eu !
+
+## Programm
+
+Das vorläufige Programm findet ihr [hier](https://teamup.com/ksw5d6wtwhucgfrage) \\
+Es ist noch genügend Platz für spontane Aktionen und Diskussionen. Das Programm befindet sich im stetigen Wandel und wird vor Ort stets ergänzt und verändert werden können.
+
+## Hygiene
+
+Wir bitten euch unser Hygienekonzept ernst zu nehmen und eure Mund-Nasen-Bedeckungen mitzubringen. Was genau es zu beachten gibt, kennt ihr vermutlich schon und wird gut ausgeschildert sein.
+
+Wir stellen euch unsere privaten Bäder/Toiletten zur Verfügung. Bitte nutzt auch nur die, die ihr am Infopunkt zugewiesen bekommen habt.
+Duscht bitte nur, wenn es unbedingt sein muss und haltet euch kurz. Bringt euch Öko-Waschzeug mit um ein erfrischendes Bad in der Saale zu nehmen.
 
 ## Anfahrt
 
