@@ -11,4 +11,4 @@ Jede Person in Wichmar/Würchhausen ist eingeladen, an unseren Planungstreffen u
 
 ## Nächstes Treffen
 
-Das nächste Treffen findet am **21.09.2021 19 Uhr**. Ort wird noch bekannt gegeben
+Wir treffen uns meistens **Dienstag, 19 Uhr**. Bei Interesse, schreib uns einfach eine [Email](/impressum.html).
