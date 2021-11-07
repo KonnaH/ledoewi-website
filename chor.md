@@ -13,4 +13,4 @@ Bitte weisen Sie daher Ihren Covid-19-Impfstatus, Genesung oder PCR-Testung vor,
 
 ## Treffen
 
-Wir treffen uns immer Donnerstags ** 18:30 Uhr** im Gemeindehaus (im Wahllokal beim Spielplatz).
+Wir treffen uns immer **Donnerstags 18:30 Uhr** im Gemeindehaus (im Wahllokal beim Spielplatz).
