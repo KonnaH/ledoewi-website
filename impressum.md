@@ -28,7 +28,7 @@ Registerzeichen: VR 231741 (Fall 1) <br />
 
 ### Umsatzsteuer-ID:
 
-Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: noch nicht verfügbar
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 162/141/22220
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
