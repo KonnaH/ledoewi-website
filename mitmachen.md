@@ -12,3 +12,11 @@ Jede Person in Wichmar/Würchhausen ist eingeladen, an unseren Planungstreffen u
 ## Nächstes Treffen
 
 Wir treffen uns meistens **Dienstag, 19 Uhr**. Bei Interesse, schreib uns einfach eine [Email](/impressum.html).
+
+## Infos und Mail-verteiler
+
+Falls Du einfach nur auf dem laufenden bleiben möchtest, was im Verein und im Dorf passiert und über Veranstaltungen informiert werden möchtest, haben wir einen Mail-verteiler. Dazu schreibe einfach eine Mail an
+
+ledoewi-info-subscribe@wichmar.eu
+
+Anschließend musst du die Eintragung noch bestätigen.
