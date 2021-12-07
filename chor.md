@@ -5,7 +5,7 @@ layout: einfach
 
 # Chor
 
-(Stand 23.11.2021)
+(Stand 07.12.2021)
 
 Seit Mitte Oktober 2021 treffen wir uns regelmäßig und singen gemeinsam Kirchen- und Volkslieder unter der Leitung von Ludwig Fischer.
 Wir freuen uns über die vielen Sängerinnen und Sänger, ob jung oder alt, erfahren oder Anfänger und freuen uns über weiteren Zuwachs. Vorkenntnisse sind nicht nötig! 
