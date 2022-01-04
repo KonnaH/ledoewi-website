@@ -21,6 +21,7 @@ Vom 13.-15. August 2021 fand das diesjährige WOrkshopwochenende in Würchhausen
 ## Programm
 
 Auch in diesem Jahr entstand ein Programm aus den vielfältigen Formaten, die Teilnehmer*innen des Workshopwochenendes im Gepäck hatten. Teils im lang im voraus geplant und vorfreudig erwartet, teils aus spontanen Impulsen entstanden - insgesamt  ein bunter Blumenstrauß, der zum Mitmachen einlud. Ob zu den klängen mehrstimmiger Küchengesänge kochend, beim Theaterspielen,  Diskutieren über Utopie und Praxis oder Bau von Fledermauskästen... Wir haben uns sehr über eure kreativen Beträge gefreut!
+Zum Beispiel haben wir uns sehr über das großartige Kuchenbuffet gefreut, das von vielen Bäcker*innen entstanden ist, und über alle Nachbar*innen, die zum Kaffeetrinken vorbeigekommen sind. In einem anschließenden Workshop von Thomas Meier zum Thema Dorfentwicklung konnten Teilnehmende Inspiration für zukünftige Veränderungen hin zu nachhaltigen Formen des Zusammenlebens sammeln.
 
 {% include image.html link="/assets/images/WW21_Programm.jpg" %}
 
@@ -29,5 +30,5 @@ Auch in diesem Jahr entstand ein Programm aus den vielfältigen Formaten, die Te
 Mindestens genauso wichtig wie die inhaltlichen Programmbeiträge ist auch bei unserem Workshopwochenende die Care-Arbeit: Kochen, Putzen, Kinder betreuen aber auch auf sich selbst im Getümmel acht geben - all das sind Aufgaben, ohne die so eine gemeinsame Zeit nicht stattfinden kann. Beim Workshopwochenende werden diese Aufgaben genauso wie die Programmbeiträge gemeinsamen gewuppt. Danke auch hier für eure Mitarbeit!
 
 
-**Wir freuen uns auf euch!**
+**Wir freuen uns auf's nächste Jahr!**
 ​
