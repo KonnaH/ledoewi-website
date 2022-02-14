@@ -17,7 +17,7 @@ Jakob Hafemann <br />
 
 ### Kontakt:
 
-Telefon: 036421/235606 (Mo 10-14 Uhr) <br />
+Telefon: 036421/235606 (Mi 9-12; Gerne auch auf den Anrufbeantworter sprechen) <br />
 E-Mail: lebendigedoerfer@wichmar.eu <br />
 
 ### Registereintrag:
