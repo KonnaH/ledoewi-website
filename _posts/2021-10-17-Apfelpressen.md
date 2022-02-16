@@ -16,7 +16,3 @@ Das gute Wetter spielte uns tagsüber in die Karten, so dass wir trotz des fortg
 Wir danken allen Beteiligten, die uns vor, während und nach der Veranstaltung tatkräftig geholfen haben! Vor allem die Hilfe beim Ernten sowie die Bereitstellung von Äpfeln hat uns sehr gefreut! Wir freuen uns auch auf das Apfelpressen nächstes Jahr mit hoffentlich genauso vielen Äpfeln wie diesen Herbst!
 
 Der Thementag Apfel 2021 ist Teil des Programms Neulandgewinner des Thünen-Instituts für Regionalentwicklung e.V., gefördert von der Robert Bosch Stiftung GmbH, dem Land Brandenburg, dem Land Mecklenburg-Vorpommern, dem Freistaat Sachsen und dem Land Sachsen-Anhalt.
-
-
-{% include image.html link="/assets/images/apfelpressen21.jpg" %}
-
