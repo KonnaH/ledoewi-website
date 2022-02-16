@@ -17,5 +17,5 @@ Wir danken allen Beteiligten, die uns vor, während und nach der Veranstaltung t
 Der Thementag Apfel 2021 ist Teil des Programms Neulandgewinner des Thünen-Instituts für Regionalentwicklung e.V., gefördert von der Robert Bosch Stiftung GmbH, dem Land Brandenburg, dem Land Mecklenburg-Vorpommern, dem Freistaat Sachsen und dem Land Sachsen-Anhalt.
 
 
-{% include image.html link="/assets/images/Apfelpressen21.jpg" %}
+{% include image.html link="/assets/images/apfelfest.jpeg" %}
 
