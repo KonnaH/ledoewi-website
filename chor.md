@@ -19,4 +19,4 @@ Wir freuen uns über die vielen Sängerinnen und Sänger, ob jung oder alt, erfa
 Einen ersten Auftritt hatten wir am ersten Adventswochenende 2021 bei der Einweihung des restaurierten Altars in der Dorfkirche Wichmar.
 
 
-** Bei Rückfragen melden Sie sich gerne per[Email](lebendigedoerfer@wichmar.eu)**
+**Bei Rückfragen melden Sie sich gerne per Email unter lebendigedoerfer@wichmar.eu**
