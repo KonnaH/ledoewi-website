@@ -10,7 +10,12 @@ layout: einfach
 Nach einer längeren Pause aufgrund der Corona-Pandemie beginnen wir ab März wieder mit den Proben!
 Wir treffen uns ab dem 03. März jede Woche **Donnerstags 18:30 Uhr** im Gemeindehaus Wichmar (im Wahllokal beim Spielplatz).
 Für neue und bekannte Gesichter ist jetzt ein idealer Zeitpunkt, um mit einzusteigen.
+
 Auf dem Programm stehen vor allem Volkslieder und Frühlingslieder.
+
+Die Probe findet unter Berücksichtigung der aktuellen Corona-Maßnahmen statt. Bitte bringen Sie Ihren Impf-/ Testnachweis mit!
+
+
 
 ## Weitere Informationen
 
