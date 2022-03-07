@@ -1,24 +1,55 @@
 <!doctype html>
+<html lang="de">
 <html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
     <script type="text/javascript" src="/assets/js/popper.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery-3.5.0.min.js"></script>
     <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
     <title>{{ page.title }}</title>
   </head>
+
+<style>
+  body {
+  background-color: #ffe7a1}
+
+  h1 {color: #fb6e32}  
+  h2 {color: #027424}
+  h3 {color: #c73e04}
+
+
+
+}
+
+</style>
+ <!-- h1 und backgroud: Aus Farbschema "saviour", andere Farben passend mit colorhexa gesucht --> 
+
+
+
   <body>
       {% include navigation.html %}
-  <div class="parallax">
+     
+    <div>
+
+   <!-- Parallax: Macht ein Hintergrundbild, vor dem versetzt gescrollt wird und leider auch einen zweiten Scroll-Bar.
+    class="parallax">
     <div class="parallax_back">
     <img src="/assets/images/sommer_hell.jpeg">
     </div>
     <div class="parallax_front">
-        {{ content }}
-    </div>
+     {{ content }}
+    </div>  -->
+    {{ content }}
+
+
+
   </div>  
+
   </body>
 </html>
+
+
