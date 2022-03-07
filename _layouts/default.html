@@ -12,8 +12,27 @@
     <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
     <title>{{ page.title }}</title>
   </head>
+
+<style>
+  body {
+  background-color: #ffe7a1}
+
+  h1 {color: #fb6e32}  
+  h2 {color: #027424}
+  h3 {color: #c73e04}
+
+
+
+}
+
+</style>
+ <!-- h1 und backgroud: Aus Farbschema "saviour", andere Farben passend mit colorhexa gesucht --> 
+
+
+
   <body>
       {% include navigation.html %}
+     
     <div>
 
    <!-- Parallax: Macht ein Hintergrundbild, vor dem versetzt gescrollt wird und leider auch einen zweiten Scroll-Bar.
@@ -25,7 +44,11 @@
      {{ content }}
     </div>  -->
     {{ content }}
+
+
+
   </div>  
+
   </body>
 </html>
 
