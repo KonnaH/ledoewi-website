@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-theme: minimal-mistakes-jekyll
-=======
-plugins:
-  - jekyll-redirect-from
-  
+
+plugins_dir: jekyll-redirect-from
