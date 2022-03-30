@@ -37,20 +37,22 @@ Die Ideen aus den Nachbarschaftsgesprächen konnten in vier Themenkomplexe gegli
 Die Übersicht aller gesammelten Ideen wurde auch an Bürgermeister Timo Schmidt überreicht, der sich für das Engagement des Vereins bedankte.
 
 Nach der Vorstellung der vier Themen kam es zur ersten Abstimmung. Alle Anwesenden wurden eingeladen, das Thema mit einem Klebepunkt zu markieren, welches Sie am wichtigsten finden. Unter den 16 abgegebenen Stimmen war mit 10 Klebepunkten „Das Bürgergemeinschaftshaus beleben“ eindeutiger Favorit, gefolgt von „Mobilität verbessern“ (4 Stimmen).
+</p>
 
 {% include image.html link="/assets/images/bv_abstimmung.jpg" %}
 
 Die "Abstimmung mit den Händen" erfolgte durch Klebepunkte 
-</p>
+
 
 <p>
 Für die Auswahl umzusetzender Projekte relevant ist im Community Organizing jedoch die Abstimmung „mit den Füßen“. In einer zweiten Runde wurden alle Anwesenden eingeladen, sich an den Tisch zu ihrem Herzensthema zu setzen, wenn sie sich vorstellen können, an der Projektumsetzung mitzuwirken. Es bildeten sich Gruppen zu „Bürgergemeinschaftshaus beleben“ und „Mobilität verbessern“. Auch setzten sich Personen zum Thema „Dorf gestalten und verschönern“ zusammen. In dieser Gruppenphase wurden erste Ideen zur Realisierung gesammelt, Kontakte ausgetauscht und das nächste Treffen vereinbart.
 
 Nachdem sich alle erneut mit Kaffee und Kuchen stärken konnten, wurden die Ergebnisse aus den Arbeitsgruppen vorgestellt und auf die kommenden Termine verwiesen. Anschließend ging der sonnige Nachmittag in einen offenen Ausklang über.
+</p>
 
 {% include image.html link="/assets/images/bv_ags.jpg" %}
 Bei der "Abstimmung mit den Füßen" fanden sich am Mitwirken Interessierte zu verschiedenen Themen zusammen.
-</p>
+
 
 
 
