@@ -5,7 +5,7 @@ layout: einfach
 
 # Dorfchor Wichmar
 
-## Einladung zur nächsten Probe am 24. März 2022
+## Einladung zur nächsten Probe am 31. März 2022
 
 Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Gemeindehaus Wichmar (im Wahllokal beim Spielplatz).
 
