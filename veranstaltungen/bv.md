@@ -1,6 +1,6 @@
 title: Bürgerversammlung in Wichmar 2022
 layout: einfach
-kategorie: Veranstaltung
+kategorie: Veranstaltungen
 ---
 
 # BürgerInnenversammlung in Wichmar am 26. März
