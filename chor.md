@@ -7,7 +7,6 @@ layout: einfach
 
 ## Einladung zur nächsten Probe am 24. März 2022
 
-<<<<<<< HEAD
 Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Gemeindehaus Wichmar (im Wahllokal beim Spielplatz).
 
 Für neue und bekannte Gesichter ist jetzt ein idealer Zeitpunkt, um mit einzusteigen.
