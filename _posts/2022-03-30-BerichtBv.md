@@ -1,7 +1,7 @@
 ---
 title: So war die BürgerInnenversammlung am 26. März
 layout: post
-image: /assets/images/Bv_saal.jpg
+image: /assets/images/bv_saal.jpg
 datum: 30.03.2022
 ---
 
