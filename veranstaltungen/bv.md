@@ -18,10 +18,14 @@ Mehrmals durch Corona verschoben, konnten wir diese vielfältigen Ergebnisse nun
 
 {% include image.html link="/assets/images/bv_kaffee.jpg" %}
 Das leckere Kuchenbuffet genossen wir dank der warmen Temperaturen unter freiem Himmel.
+<p>
+
 
 ## Ein kleiner Ort mit viel Potential
 
 Anschließend führten Konstantin Hoffmann und Tabea Seeßelberg durch das Programm. Ein kurzer Rückblick auf die vergangenen Aktivitäten in Wichmar des letzten Jahres zeigt, wie viel Potential in diesem kleinen Ort an der Saale steckt. So bot die mit viel Eigenarbeit und Engagement renovierte Dorfkirche   mit der Neueinweihung des Altars am ersten Advent dem neu entstandenen Dorfchor eine Bühne für den ersten Auftritt. Das aus Mitteln der Gemeinde und unter vielen Arbeitseinsätzen renovierte Bürgergemeinschaftshaus bietet künftig Raum für Veranstaltungen und Treffen und soll unter anderem den  ansässigen Vereinen zu Verfügung stehen /gestellt werden.
+<p>
+
 
 
 ## 54 Gespräche - hunderte Ideen!
@@ -36,6 +40,7 @@ Nach der Vorstellung der vier Themen kam es zur ersten Abstimmung. Alle Anwesend
 {% include image.html link="/assets/images/bv_abstimmung.jpg" %}
 
 Die "Abstimmung mit den Händen" erfolgte durch Klebepunkte 
+<p>
 
 Für die Auswahl umzusetzender Projekte relevant ist im Community Organizing jedoch die Abstimmung „mit den Füßen“. In einer zweiten Runde wurden alle Anwesenden eingeladen, sich an den Tisch zu ihrem Herzensthema zu setzen, wenn sie sich vorstellen können, an der Projektumsetzung mitzuwirken. Es bildeten sich Gruppen zu „Bürgergemeinschaftshaus beleben“ und „Mobilität verbessern“. Auch setzten sich Personen zum Thema „Dorf gestalten und verschönern“ zusammen. In dieser Gruppenphase wurden erste Ideen zur Realisierung gesammelt, Kontakte ausgetauscht und das nächste Treffen vereinbart.
 
@@ -43,9 +48,11 @@ Nachdem sich alle erneut mit Kaffee und Kuchen stärken konnten, wurden die Erge
 
 {% include image.html link="/assets/images/bv_ags.jpg" %}
 Bei der "Abstimmung mit den Füßen" fanden sich am Mitwirken Interessierte zu verschiedenen Themen zusammen.
+<p>
 
 ## Wie geht es weiter?
 Mit der BürgerInnenversammlung geht der Beteiligungsprozess erst richtig los: In den kommenden Monaten wird sich zeigen, welche Arbeitsgruppen dauerhaft Bestand haben und von engagierten BürgerInnen mit Leben gefüllt werden. Für gemeinnützige Projekte kann der Lebendige Dörfer e.V. Durch die Förderung im Rahmen des „Neulandgewinner“ Programms Mittel von 5000 Euro zur Verfügung stellen.
 Ein erstes nächstes Treffen für die Arbeitsgruppen „Bürgergemeinschaftshaus“ und „Mobilität“ findet am 4. April um 19:30 im Bürgergemeinschaftshaus statt. Hier werden erste Schritte und Projektziele besprochen. Hierzu sind selbstverständlich alle Interessierten eingeladen!
-Wir bedanken uns herzlich bei allen, die uns bei der Planung, Auf- undAbbau oder Kuchenbacken unterstützt haben und diese Veranstaltung ermöglicht haben!
+Wir bedanken uns herzlich bei allen, die uns bei der Planung, Auf- und Abbau oder Kuchenbacken unterstützt haben und diese Veranstaltung ermöglicht haben!
+<p>
 {% include image.html link="/assets/images/bv_saal.jpg" %}
