@@ -32,10 +32,13 @@ Anschließend führten Konstantin Hoffmann und Tabea Seeßelberg durch das Progr
 ## 54 Gespräche - hunderte Ideen!
 <p>
 Die Ideen aus den Nachbarschaftsgesprächen konnten in vier Themenkomplexe gegliedert werden und wurden auf Stellwänden präsentiert:,„Das Dorf gestalten und verschönern“, „Das Bürgergemeinschaftshaus beleben“, „Infrastruktur und Bau“ und „Mobilität verbessern“ lauteten die Oberbegriffe. Zu jedem Thema waren jeweils häufig genannte Schlagworte aufgelistet. Für Neugierige gab es zudem eine Übersicht mit den anonymisierten Vorschlägen aus jedem einzelnen Gespräch. 
+</p>
 
+{% include carousel.html link="/assets/images/bv_anbindung.jpg" %}
 {% include image.html link="/assets/images/bv_bürgermeister.jpg" %}
 Die Übersicht aller gesammelten Ideen wurde auch an Bürgermeister Timo Schmidt überreicht, der sich für das Engagement des Vereins bedankte.
 
+<p>
 Nach der Vorstellung der vier Themen kam es zur ersten Abstimmung. Alle Anwesenden wurden eingeladen, das Thema mit einem Klebepunkt zu markieren, welches Sie am wichtigsten finden. Unter den 16 abgegebenen Stimmen war mit 10 Klebepunkten „Das Bürgergemeinschaftshaus beleben“ eindeutiger Favorit, gefolgt von „Mobilität verbessern“ (4 Stimmen).
 </p>
 
