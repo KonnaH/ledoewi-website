@@ -1,1 +1,5 @@
-<img src="{{ include.link | relative_url }}" class="img-fluid mx-auto" />
+<figure role="group">
+  <img src="{{ include.link | relative_url }}" class="img-kleiner" alt="{{ include.alt }}">
+  <figcaption> {{ include.cap }}
+  </figcaption>
+</figure>
