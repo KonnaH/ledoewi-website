@@ -9,7 +9,7 @@ layout: einfach
 
 Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Gemeindehaus Wichmar (im Wahllokal beim Spielplatz).
 
-Für neue und bekannte Gesichter ist jetzt ein idealer Zeitpunkt, um mit einzusteigen.
+Neue und bekannte Stimmen sind jederzeit willkommen, ob jung oder alt!
 
 Auf dem Programm stehen vor allem Volkslieder und Frühlingslieder.
 
