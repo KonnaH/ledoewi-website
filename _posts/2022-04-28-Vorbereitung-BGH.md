@@ -1,7 +1,7 @@
 ---
 title: Wer macht mit? Tag der offenen Tür im Bürgergemeinschaftshaus
 layout: post
-image: /assets/images/Bürgerhaus.jpg
+image: /assets/images/Bürgerhaus-min.jpg
 datum: 26.04.2022
 ---
 
