@@ -101,6 +101,77 @@ background-color: #e5f3c5;
 }
 
 
+main
+{
+ background-color:rgba(248,249,250,0.8);
+ /* Pixelterror! */
+ padding:15px;
+ margin:15px auto;
+}
+
+/* Das hier folgende Pixel-Layout ist mega schlimm und kagge, aber ich hab das aus deinem Code einfach so Ã¼bernommen. Bitte nicht nach Pixeln layouten. Siehe zum Beispiel
+ * https://de.wikipedia.org/wiki/Retina-Display
+ * Bei 476 Pixeln pro Zoll (und 2,54 Zentimetern pro Zoll) ergibt eine Maximalbreite von 1140 Pixeln
+ * 1140/476*2.54 = 6.08 Zentimeter
+ * Prost Mahlzeit! */
+
+@media (min-width: 576px)
+{
+ main
+ {
+  max-width: 540px;
+ }
+}
+@media (min-width: 768px)
+{
+ main
+ {
+  max-width: 720px;
+ }
+}
+@media (min-width: 992px)
+{
+ main
+ {
+  max-width: 960px;
+ }
+}
+@media (min-width: 1200px)
+{
+ main
+ {
+  max-width: 1140px;
+ }
+}
+
+summary
+{
+ cursor:pointer;
+ background-color:#e5f3c5;
+ color:#027424;
+ list-style:none;
+ font-size:x-large;
+ font-weight:bold;
+ padding: 0.4em 0.2em
+}
+
+summary:hover
+{
+ background-color:#dcefb0;
+}
+
+details
+{
+ margin-left:1em;
+}
+
+details details summary
+{
+ font-weight:inherit;
+}
+
+
+
 //Ids, Alphabetisch sortiert
 
 #h3green {
