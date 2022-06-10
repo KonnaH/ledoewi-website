@@ -3,7 +3,7 @@ title: 3w22_Mitmachen
 layout: default
 ---
 
-## Programm
+## Workshop-Programm
 
 Auch in diesem Jahr erwarten wir ein Programm aus den vielfältigen Formaten, die Teilnehmer*innen des Workshopwochenendes mitbringen. Teils lang im voraus geplant und vorfreudig erwartet, teils aus spontanen Impulsen entstehend - insgesamt  ein bunter Blumenstrauß, der zum Mitmachen einlädt. Ob zu den klängen mehrstimmiger Küchengesänge kochend, beim Theaterspielen,  Diskutieren über Utopie und Praxis oder Bau von Fledermauskästen... Wir freuen uns wieder sehr über eure kreativen Beiträge!
 Hier ein Blick in das Programm aus dem letzten Jahr:
