@@ -88,6 +88,7 @@ background-color: #e5f3c5;
   margin: 1em;
 }
 
+}
 
 .ledoewi-heading {color: #fb6e32}
 
@@ -176,4 +177,56 @@ details details summary
 
 #h3green {
   color: #027424;
+}
+
+//Bildergallerie mit Unterschriften (3W22)
+figure,
+figcaption {
+	margin: 0;
+	padding: 0;
+}
+
+#gallery {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+  //1fr 1fr 1fr
+  //repeat(auto-fill, minmax(15em, 1fr));
+	gap: 1em;
+	text-align: center;
+}
+
+#gallery figure {
+	position: relative;
+	color: black;
+	background: white;
+}
+
+figure img {
+	width: 100%;
+	display: block;
+  object-fit: cover;
+}
+
+#gallery > figure > figcaption {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	line-height: 11.25em;
+	color: white;
+	background: rgba(0, 0, 0, 0.2);
+  font-size: 2em;
+}
+
+#gallery > figcaption {
+	grid-column: 1 / -1;
+}
+
+// runder Bildausschnitt
+
+.rund {
+ object-fit: cover;
+ object-position: 50% 0;
+ border-radius: 50%;
+ width: 15em;
+ height: 15em;
 }
