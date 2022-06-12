@@ -8,6 +8,7 @@ body
  background-color: #ffe7a1;
  color:black;
  text-align:justify;
+ hyphens: auto;
 }
 
 h1 {
@@ -28,36 +29,6 @@ a {
 }
 
 //Klassen, alphabetisch geordnet :)
-.accordion {
-  background-color: #e5f3c5;
-  color: #e5f3c5;
-//  background-color:rgba(248,249,250,.8);
-//  color: rgba(248,249,250,.8);
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 3em;
-  transition: 0.4s;
-}
-
-.accordionsmall {
-  background-color: #eef7da;
-  color: #eef7da;
-//  background-color:rgba(248,249,250,.8);
-//  color: rgba(248,249,250,.8);
-
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 2.5em;
-  transition: 0.4s;
-}
 
 .active, .accordion:hover {
 //  background-color: rgba(248,249,250,.8);
@@ -67,6 +38,12 @@ background-color: #dcefb0;
 .active, .accordionsmall:hover {
 //  background-color: rgba(248,249,250,.8);
 background-color: #e5f3c5;
+}
+
+header.www {
+background-image: url(/assets/images/3w22_banner.jpg);
+background-position: center;
+background-size: cover;
 }
 
 
@@ -80,10 +57,23 @@ background-color: #e5f3c5;
 .container
 {
  background-color:rgba(248,249,250,.8);
- padding:1,5em 1.5em;
+ padding:1.5em 1.5em;
  margin: 15px auto;
  overflow: scroll;
 }
+
+header
+{
+min-height: 15rem;
+padding: 1rem 5rem 10rem;
+justify-content: center;
+display: flex;
+}
+
+header > h1 {
+background-color: #ffe7a1ee;
+padding: 0.5rem 0.2rem;}
+
 
 .img-kleiner {
   max-width: 50%;
@@ -113,6 +103,7 @@ main
  /* Pixelterror! */
  padding:15px;
  margin:15px auto;
+ max-width: 85vw;
 }
 
 /* Das hier folgende Pixel-Layout ist mega schlimm und kagge, aber ich hab das aus deinem Code einfach so Ã¼bernommen. Bitte nicht nach Pixeln layouten. Siehe zum Beispiel
@@ -121,32 +112,28 @@ main
  * 1140/476*2.54 = 6.08 Zentimeter
  * Prost Mahlzeit! */
 
-@media (min-width: 576px)
+
+@media (max-width: 992px)
+  {
+   main
+   {
+    max-width: 90vw;
+   }
+  }
+
+@media (ma-width: 768px)
+  {
+   main
+   {
+    max-width: 95vw;
+   }
+  }
+
+@media (max-width: 576px)
 {
  main
  {
-  max-width: 540px;
- }
-}
-@media (min-width: 768px)
-{
- main
- {
-  max-width: 720px;
- }
-}
-@media (min-width: 992px)
-{
- main
- {
-  max-width: 960px;
- }
-}
-@media (min-width: 1200px)
-{
- main
- {
-  max-width: 1140px;
+  max-width: 98vw;
  }
 }
 
@@ -190,6 +177,8 @@ figure,
 figcaption {
 	margin: 0;
 	padding: 0;
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
 #gallery {
@@ -249,7 +238,7 @@ font-size: 1em;}
 }
 
 // TExt zentriert + Größer
-.zentriert  {
+.wichtig  {
   text-align: center;
   font-size: 1.5em;
 }
