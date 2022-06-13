@@ -40,12 +40,51 @@ background-color: #dcefb0;
 background-color: #e5f3c5;
 }
 
+//header: Reihenfolge relevant
+
 header.www {
 background-image: url(/assets/images/3w22_banner.jpg);
 background-position: center;
 background-size: cover;
 }
 
+header.wwwbeschreibung {
+background-image: url(/assets/images/WW21_Workshop.png);
+background-position: 0em -10em;
+background-size: cover;
+}
+
+header.wwwinfos {
+  background-image: url(/assets/images/w322_infos.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+
+header.wwwmitmachen {
+  background-image: url(/assets/images/WW21_Programm.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+header
+{
+min-height: 15rem;
+padding: 1rem 5rem 10rem;
+justify-content: center;
+display: flex;
+}
+
+header > h1 {
+background-color: #ffe7a1ee;
+padding: 0.5rem 0.2rem;}
+
+header.wwwbeschreibung > h1
+{
+margin-top: 6.5rem;
+}
 
 .banner
 {
@@ -62,17 +101,7 @@ background-size: cover;
  overflow: scroll;
 }
 
-header
-{
-min-height: 15rem;
-padding: 1rem 5rem 10rem;
-justify-content: center;
-display: flex;
-}
 
-header > h1 {
-background-color: #ffe7a1ee;
-padding: 0.5rem 0.2rem;}
 
 
 .img-kleiner {
@@ -83,7 +112,11 @@ padding: 0.5rem 0.2rem;}
   margin: 1em;
 }
 
-
+.img-mini {
+  max-width: 7rem;
+  height: auto;
+  margin: 1em;
+}
 
 .ledoewi-heading {color: #fb6e32}
 
@@ -202,6 +235,12 @@ figure img {
   object-fit: cover;
 }
 
+figure img  {
+	width: 100%;
+	display: block;
+  object-fit: cover;
+}
+
 #gallery > figure > figcaption {
 	position: absolute;
 	bottom: 0;
@@ -209,19 +248,10 @@ figure img {
   line-height: 3em;
 	//line-height: 11.25em;
 	color: white;
-	background: rgba(0, 1, 0.5, 0.3);
+	background: rgba(0, 1, 0.5, 0.5);
   font-size: 1em;
 }
 
-.figcaptiondunkel {
-position: absolute;
-bottom: 0;
-width: 100%;
-line-height: 3em;
-//line-height: 11.25em;
-color: white;
-background: rgba(0, 1, 0.5, 0.7);
-font-size: 1em;}
 
 #gallery > figcaption {
 	grid-column: 1 / -1;
@@ -236,6 +266,16 @@ font-size: 1em;}
  width: 15em;
  height: 15em;
 }
+
+.figcaptiondunkel {
+position: absolute;
+bottom: 0;
+width: 100%;
+line-height: 3em;
+//line-height: 11.25em;
+color: white;
+background: rgba(1, 1, 0.5, 3);
+font-size: 1em;}
 
 // TExt zentriert + Größer
 .wichtig  {
