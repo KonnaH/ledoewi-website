@@ -1,5 +1,5 @@
 ---
-title: Lieder zun Zuhören und Mitsingen
+title: Lieder zum Zuhören und Mitsingen
 layout: post
 image: /assets/images/chor_eckolstädt.JPG
 datum: 01.07.2022
