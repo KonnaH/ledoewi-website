@@ -220,11 +220,14 @@ figcaption {
 
 #gallery {
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-  //1fr 1fr 1fr
-  //repeat(auto-fill, minmax(15em, 1fr));
+  grid-template-columns: repeat (auto-fill, 5em);
 	gap: 1em;
 	text-align: center;
+}
+
+@media ( min-width: 720px )
+{#gallery
+{grid-template-columns: 1fr 1fr 1fr;}
 }
 
 #gallery figure {
@@ -234,19 +237,37 @@ figcaption {
 }
 
 figure img {
-	width: 100%;
-	display: block;
-  object-fit: cover;
+	width: 50%;
+	display:inline-flex;
+  object-fit: contain;
 }
 
-figure img  {
+@media ( min-width: 720px )
+{
+figure img {
 	width: 100%;
 	display: block;
   object-fit: cover;
 }
+}
+
 
 #gallery > figure > figcaption {
-	position: absolute;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+  line-height: 3em;
+	//line-height: 11.25em;
+	color: white;
+	//background: rgba(0, 1, 0.5, 0.5);
+  font-size: 1em;
+  display: block;
+}
+
+@media (min-width: 720px)
+{#gallery > figure > figcaption
+{
+  position: absolute;
 	bottom: 0;
 	width: 100%;
   line-height: 3em;
@@ -254,11 +275,13 @@ figure img  {
 	color: white;
 	background: rgba(0, 1, 0.5, 0.5);
   font-size: 1em;
+  display:block;
+}
 }
 
 
 #gallery > figcaption {
-	grid-column: 1 / -1;
+ grid-column: 1 / -1;
 }
 
 // runder Bildausschnitt
@@ -271,15 +294,7 @@ figure img  {
  height: 15em;
 }
 
-.figcaptiondunkel {
-position: absolute;
-bottom: 0;
-width: 100%;
-line-height: 3em;
-//line-height: 11.25em;
-color: white;
-background: rgba(1, 1, 0.5, 3);
-font-size: 1em;}
+
 
 // TExt zentriert + Größer
 .wichtig  {

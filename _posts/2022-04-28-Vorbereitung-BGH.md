@@ -5,7 +5,7 @@ image: /assets/images/Bürgerhaus-min.jpg
 datum: 08.05.2022
 ---
 
-## Die Arbeitsgruppe "Das Bürgerhaus beleben" plant  Einweihung im September
+### Die Arbeitsgruppe "Das Bürgerhaus beleben" plant  Einweihung im September
 Mitten in Wichmar steht das Bürgergemeinschaftshaus. Viel Zeit und Energie wurde in den letzten Jahren in die Renovierung gesteckt.
 Mit großem Einsatz aus der Nachbarschaft sind nun auch bald die Innenräume fertig gestellt.
 

@@ -10,10 +10,10 @@ layout: einfach
 Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Gemeindehaus Wichmar (im Wahllokal beim Spielplatz).
 Bei gutem Wetter singen wir draußen!
 
-Unsere nächsten Chorproben im Mai:
-<p> 18/Mai 18:30
-<p> 25/Mai 18:30
-<p>
+Unsere nächsten Chorprobe :
+<p> 15/<Juni 18:30
+
+Danach legen wir eine kleine Sommerpause ein: Bis zum 11. August finden keine Chorproben statt.
 
 
 <h2> Wer singt mit uns? </h2>
@@ -21,7 +21,7 @@ Unsere nächsten Chorproben im Mai:
 {% include image.html link="/assets/images/chor.jpg" %}
 
 
-
+<p> </p>
 
 Neue und bekannte Stimmen sind jederzeit willkommen, ob jung oder alt, aus Wichmar oder außerhalb. Vorkenntnisse sind keine nötig. <p>
 
