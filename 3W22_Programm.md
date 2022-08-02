@@ -32,4 +32,4 @@ Für ganz junge Menschen organisieren wir eine Betreuung mit Basteln und Spielen
 
 <h2> Abendprogramm </h2>
 
-Dieses Jahr überlegen wir uns ein kleines, feines Abendprogramm im voraus. Freitag wollen wir gemütlich am Lagerfeuer sitzen. Hier ist auch Raum für spontane Jam-Sessions.Am Samstag gibt es ein kleines Konzert auf der Würchwiese und später legen DJs im Berggarten auf.
+Dieses Jahr überlegen wir uns ein kleines, feines Abendprogramm im voraus. Freitag wollen wir nach einem Konzert gemütlich am Lagerfeuer sitzen. Hier ist auch Raum für spontane Jam-Sessions.Am Samstag gibt es ein weiteres Konzert auf der Würchwiese und später legen DJs im Berggarten auf.
