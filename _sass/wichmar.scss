@@ -185,10 +185,11 @@ summary
  padding: 0.4em 0.2em
 }
 
-summary:hover
+/*summary:hover
 {
  background-color:#dcefb0;
 }
+*/
 
 details
 {
@@ -301,3 +302,20 @@ figure img {
   text-align: center;
   font-size: 1.5em;
 }
+
+// Bericht 3W22
+.bericht {
+  text-align: centerS;
+  font-size: 1.2em;
+}
+
+.details-bericht {
+   cursor:pointer;
+   background-color:#ffe7a1;
+   color:#fb6e32;
+   list-style:none;
+   font-size:1.5em;
+   font-weight: normal;
+   padding: 0.1em 0.1em;
+   text-align: center;
+ }
