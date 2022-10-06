@@ -7,13 +7,9 @@ layout: einfach
 
 ## Einladung zum gemeinsamen Singen am Donnerstag
 
-Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Gemeindehaus Wichmar (im Wahllokal beim Spielplatz).
-Bei gutem Wetter singen wir draußen!
+Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Bürgerhaus Wichmar (gegenüber der Kirche).
 
-Unsere nächsten Chorprobe :
-<p> 15/<Juni 18:30
 
-Danach legen wir eine kleine Sommerpause ein: Bis zum 11. August finden keine Chorproben statt.
 
 
 <h2> Wer singt mit uns? </h2>
@@ -23,19 +19,17 @@ Danach legen wir eine kleine Sommerpause ein: Bis zum 11. August finden keine Ch
 
 <p> </p>
 
-Neue und bekannte Stimmen sind jederzeit willkommen, ob jung oder alt, aus Wichmar oder außerhalb. Vorkenntnisse sind keine nötig. <p>
+Neue und bekannte Stimmen sind jederzeit willkommen, ob jung oder alt, aus Wichmar oder außerhalb. Vorkenntnisse sind keine nötig.
 
-Auf dem Programm stehen vor allem bekannte Volkslieder, Frühlingslieder und Kirchenlieder. Und natürlich der Spaß am gemeinsamen Singen!<p>
+Auf dem Programm stehen vor allem bekannte Volkslieder Kirchenlieder. Und natürlich der Spaß am gemeinsamen Singen!
 
-Wenn Sie uns kennenlernen wollen, schauen Sie einfach bei der nächsten Probe vorbei - wir freuen uns. <p>
-
+Wenn Sie uns kennenlernen wollen, schauen Sie einfach bei der nächsten Probe vorbei - wir freuen uns.
 
 
 <h2> Weitere Informationen </h2>
 
 Seit Mitte Oktober 2021 treffen wir uns regelmäßig und singen gemeinsam Kirchen- und Volkslieder unter der Leitung von Ludwig Fischer.
 Wir freuen uns über die vielen Sängerinnen und Sänger, ob jung oder alt, erfahren oder Anfänger und freuen uns über weiteren Zuwachs aus Wichmar und darüber hinaus.
-Einen ersten Auftritt hatten wir am ersten Adventswochenende 2021 bei der Einweihung des restaurierten Altars in der Dorfkirche Wichmar. Nach einer längeren Pause aufgrund der Corona-Pandemie haben wir ab März wieder mit den  Proben begonnen. <p>
-
+Erste Auftritte hatten wir am ersten Adventswochenende 2021 bei der Einweihung des restaurierten Altars in der Dorfkirche Wichmar, bei einem bunten musikalischen Abend in Eckolstädt und bei der Einweihung des Wichmarer Bürgerhauses im September 2022. Gerade proben wir für unser Weihnachtskonzert! 
 
 <strong> Bei Rückfragen melden Sie sich gerne per Email unter lebendigedoerfer@wichmar.eu </strong>
