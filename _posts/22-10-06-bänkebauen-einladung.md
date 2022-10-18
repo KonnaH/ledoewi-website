@@ -1,7 +1,7 @@
 ---
 title: Erzählbänke für Wichmar und Würchhausen
 layout: post
-datum: 16.09.2022
+datum: 06.10.2022
 ---
 <h3> Bänke zum Treffen und Verweilen </h3>
 
