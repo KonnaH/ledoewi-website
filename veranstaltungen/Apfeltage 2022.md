@@ -10,7 +10,7 @@ Auch in diesem Jahr gab es in Wichmar wieder einen Apfeltag. Am 1. Oktober trafe
  
 ##Vom Baum in die Flasche
 
-Foto
+{% include image.html link="/assets/images/AT 22 frischer Apfelsaft.jpg" %}
 
 Bereits am Vortag wurde auf Streuobstwiesen in der Umgebung um Wichmar bei schönstem Herbstwetter Äpfel gesammelt. Die unterschiedlichen Sorten ergaben am Abend einen großen Berg aus grün, rot und gelb leuchtenden Äpfeln.
 
@@ -33,4 +33,4 @@ Foto
 Am Mittag versammelten sich alle zum Kürbissuppe Essen und aufwärmen in der großen Küche des Wohnprojekts. Nach einer erholsamen Pause wurde bis in die späten Abendstunden fleißig gepresst so dass am Ende über 100 Liter Apfelsaft abgefüllt werden konnten.
 Wir danken allen HelferInnen für den schönen Apfeltag und freuen uns schon auf nächstes Jahr.  
 
-Foto
+{% include image.html link="/assets/images/AT 22 Anstoßen mit Apfelsaft.jpg %}
