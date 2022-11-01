@@ -20,15 +20,10 @@ Auch die historische Apfelpresse und der Schredder wurden in diesem Jahr wieder 
 Die Freude war groß, als der erste Saft aus der Presse kam und der süß, saure frische Most gekostet werden konnte.  Damit der Saft sich lange hält, wurde er vor dem Abfüllen schonend auf 80 Grad erhitzt. So wärmte er auch kalte Kehlen und Hände.
 
 ## Äpfel für den Laufsteg
-Foto
 
 Den ganzen Tag über wurden in einem kleinen Wettbewerb die schönsten, schrumpligsten,  größten,  kleinsten und anstößigsten Apfel gesammelt. Die Preisträger können auf dem folgenden Foto bestaunt werden. 
 
-Foto 
-
 Die Gestaltung der Etiketten für die Saftflaschen lag auch diese Jahr in Kinderhand: Mit Fingermalfarbe und halben Äpfeln wurden kleine Kunstwerke gestaltet, die nun die Flaschen zieren. 
-
-Foto
 
 Am Mittag versammelten sich alle zum Kürbissuppe Essen und aufwärmen in der großen Küche des Wohnprojekts. Nach einer erholsamen Pause wurde bis in die späten Abendstunden fleißig gepresst so dass am Ende über 100 Liter Apfelsaft abgefüllt werden konnten.
 Wir danken allen HelferInnen für den schönen Apfeltag und freuen uns schon auf nächstes Jahr.  
