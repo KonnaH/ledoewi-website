@@ -8,7 +8,7 @@ kategorie: Veranstaltung
 
 Auch in diesem Jahr gab es in Wichmar wieder einen Apfeltag. Am 1. Oktober trafen sich Vereinsmitglieder, NachbarInnen und FreundInnen zum gemeinsamen Apfelpressen. Die Freude an der gemeinsamen Verwertung von den lokalen Früchten und stand dabei im Vordergrund. Ob groß oder klein: Alle konnten mit anpacken und beim Mitmachen lernen, welche Schritte die Früchte vom Baum in die Flasche durchlaufen.
  
-##Vom Baum in die Flasche
+## Vom Baum in die Flasche
 
 {% include image.html link="/assets/images/AT 22 frischer Apfelsaft.jpg" %}
 
@@ -33,3 +33,4 @@ Foto
 Am Mittag versammelten sich alle zum Kürbissuppe Essen und aufwärmen in der großen Küche des Wohnprojekts. Nach einer erholsamen Pause wurde bis in die späten Abendstunden fleißig gepresst so dass am Ende über 100 Liter Apfelsaft abgefüllt werden konnten.
 Wir danken allen HelferInnen für den schönen Apfeltag und freuen uns schon auf nächstes Jahr.  
 
+{% include image.html link="/assets/images/AT 22 Anstoßen mit Apfelsaft.jpg" %}
