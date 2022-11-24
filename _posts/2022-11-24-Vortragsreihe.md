@@ -11,8 +11,7 @@ Gegen Ende des Projekts "Lebendiges Dorf Wichmar" laden wir zu einer Vortragsrei
 Hier geht es um die Herausforderungen kleiner Gemeinden im ländlichen Raum und welche Vorbilder es für die nachhaltige Gestaltung von Infrastruktur und Zusammenleben gibt.
 
 <p> <i> Mittwoch, 30. November, 19 Uhr im BürgerInnenhaus Wichmar: </i> <br>
-Landwirtschaft nach solidarischem Prinzip <br>
-Vortrag der Gemüsegärtnerinnen von der Obermühle Steudnitz
+<b> Landwirtschaft nach solidarischem Prinzip </b> <br>
 Viel Ertrag von kleinen Flächen ernten und dabei für Mensch und Natur nachhaltig wirtschaften –  dafür steht die Obermühle Steudnitz, in der seit März 2022 eine  engagierte Gruppe lebt, die ökologischen Landbau betreibt. Im Vortrag geht es um  „solidarische Landwirtschaft“ und die Chancen für die lokale Versorgung und Vernetzung zwischen Produzierenden und Konsumierenden.
 
 <p> <i> Dienstag, 15. Dezember, 19 Uhr im BürgerInnenhaus Wichmar: </i> <br>
@@ -26,4 +25,4 @@ Viel Ertrag von kleinen Flächen ernten und dabei für Mensch und Natur nachhalt
 Im <a href="https://talvolk.de/willkommen/"> Talvolk e.V. </a> schließen sich engagierte BürgerInnen aus dem "Erfurter Tal" zusammen und stellen Projekte auf die Beine, die in einem Dorf alleine nicht möglich wären.
 Thomas Meier hat als Vorstand des Talvolk e.V. vom Waldkindergarten, übers Dorfkino bis zum Mehrgenerationenhof schon viele Projekte auf dem Land begleitet.
 
-Der Eintritt ist frei - Alle sind herzlich eingeladen!
+<p> <i> Der Eintritt ist frei - Alle sind herzlich eingeladen! </i>
