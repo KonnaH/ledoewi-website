@@ -16,7 +16,7 @@ Viel Ertrag von kleinen Flächen ernten und dabei für Mensch und Natur nachhalt
 
 <p> <i> Dienstag, 15. Dezember, 19 Uhr im BürgerInnenhaus Wichmar: </i> <br>
 <b> Energie, Versorgung und Mobilität im Bioenergiedorf Schlöben </b> <br>
- Hans-Peter Perschke ist Bürgermeister des <a href="https://bioenergiedorf.schloeben.de/die-vision/"> Bio-Energiedorfs Schlöben</a>.Hier wurde 2009 eine Energie-Genossenschaft gegründet, die eine lokale Energieversorgung ermöglicht. In Schlöben wurde außerdem ein Bürgerbus sowie ein neuer Dorfladen eingerichtet. In seinem Vortrag berichtet Hans-Peter Perschke, welche Schritte die Gemeinde zur Umsetzung dieser Projekte gegangen ist. <br>
+ Hans-Peter Perschke ist Bürgermeister des <a href="https://bioenergiedorf.schloeben.de/die-vision/"> Bio-Energiedorfs Schlöben</a>. Hier wurde 2009 eine Energie-Genossenschaft gegründet, die eine lokale Energieversorgung ermöglicht. In Schlöben wurde außerdem ein Bürgerbus sowie ein neuer Dorfladen eingerichtet. In seinem Vortrag berichtet Hans-Peter Perschke, welche Schritte die Gemeinde zur Umsetzung dieser Projekte gegangen ist. <br>
  Der Vortragende  ist Sprecher des Bürgermeisterdialogs zur nachhaltigen Kommunalentwicklung in Thüringen und Mitglied des Thüringer Nachhaltigkeitsbeirats und steht für Fragen und Diskussion bereit.
 
 
