@@ -17,6 +17,6 @@ Musikalische Beiträge schenken uns: <br>
 <li> Weitere MusikerInnen mit Klavier, Flöte, Lyrik. </li>
 </ul>
 
-<p> Im Anschluss laden wir bei Punsch und Glühwein zum gemeinsamen Ausklang ein. Gerne können Plätzchen und Weihnachtsgebäck zum Teilen mitgebracht werden.
+<p> Im Anschluss laden wir bei Punsch und Glühwein zum gemeinsamen Ausklang ein. Gerne können Plätzchen und Weihnachtsgebäck mitgebracht werden.
 
 <p> Alle sind herzlich eingeladen!
