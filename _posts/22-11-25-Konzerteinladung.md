@@ -7,7 +7,7 @@ datum: 25.11.2022
 
 ### Musikalisch in die Weihnachtszeit
 
-"Es ist für uns eine Zeit angekommen..."
+"Es ist für uns eine Zeit angekommen...": <br>
 Nach zwei Jahren Pause durch die Coronapandemie freuen wir uns auf ein weiteres vorweihnachtliches Konzert!
 In der inzwischen neu restaurierten Wichmarer Dorfkirche erklingt am zweiten Adventssamstag ab 16 Uhr ein vielfältiges Programm.
 Musikalische Beiträge schenken uns: <br>
