@@ -7,7 +7,8 @@ layout: einfach
 
 ## Einladung zum gemeinsamen Singen am Donnerstag
 
-Wir treffen uns **jede Woche Donnerstags 18:30 Uhr** im Bürgerhaus Wichmar (gegenüber der Kirche).
+Bis zum 12. Januar machen wir eine Winterpause!
+Ab dann treffen uns wieder **jede Woche Donnerstags 18:30 Uhr** im Bürgerhaus Wichmar (gegenüber der Kirche).
 
 
 
@@ -30,6 +31,8 @@ Wenn Sie uns kennenlernen wollen, schauen Sie einfach bei der nächsten Probe vo
 
 Seit Mitte Oktober 2021 treffen wir uns regelmäßig und singen gemeinsam Kirchen- und Volkslieder unter der Leitung von Ludwig Fischer.
 Wir freuen uns über die vielen Sängerinnen und Sänger, ob jung oder alt, erfahren oder Anfänger und freuen uns über weiteren Zuwachs aus Wichmar und darüber hinaus.
-Erste Auftritte hatten wir am ersten Adventswochenende 2021 bei der Einweihung des restaurierten Altars in der Dorfkirche Wichmar, bei einem bunten musikalischen Abend in Eckolstädt und bei der Einweihung des Wichmarer Bürgerhauses im September 2022. Gerade proben wir für unser Weihnachtskonzert! 
+Erste Auftritte hatten wir am ersten Adventswochenende 2021 bei der Einweihung des restaurierten Altars in der Dorfkirche Wichmar, bei einem bunten musikalischen Abend in Eckolstädt und bei der Einweihung des Wichmarer Bürgerhauses im September 2022.
+
+Mit unseren Konzerten in der Adventszeit 2022 am 03.12. in Wichmar und 04.12. in Löberschütz haben wir in die Vorweihnachtszeit angestimmt.
 
 <strong> Bei Rückfragen melden Sie sich gerne per Email unter lebendigedoerfer@wichmar.eu </strong>
