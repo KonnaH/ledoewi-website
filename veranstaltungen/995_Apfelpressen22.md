@@ -7,7 +7,7 @@ kategorie: Veranstaltung
 # Apfeltage 2022
 
 Auch in diesem Jahr gab es in Wichmar wieder einen Apfeltag. Am 1. Oktober trafen sich Vereinsmitglieder, NachbarInnen und FreundInnen zum gemeinsamen Apfelpressen. Die Freude an der gemeinsamen Verwertung von den lokalen Früchten und stand dabei im Vordergrund. Ob groß oder klein: Alle konnten mit anpacken und beim Mitmachen lernen, welche Schritte die Früchte vom Baum in die Flasche durchlaufen.
- 
+
 ## Vom Baum in die Flasche
 
 {% include image.html link="/assets/images/AT 22 frischer Apfelsaft.jpg" %}
@@ -21,9 +21,9 @@ Die Freude war groß, als der erste Saft aus der Presse kam und der süß, saure
 
 ## Äpfel für den Laufsteg
 
-Den ganzen Tag über wurden in einem kleinen Wettbewerb die schönsten, schrumpligsten,  größten,  kleinsten und anstößigsten Apfel gesammelt. Die Preisträger können auf dem folgenden Foto bestaunt werden. 
+Den ganzen Tag über wurden in einem kleinen Wettbewerb die schönsten, schrumpligsten,  größten,  kleinsten und anstößigsten Apfel gesammelt. Die Preisträger können auf dem folgenden Foto bestaunt werden.
 
-Die Gestaltung der Etiketten für die Saftflaschen lag auch diese Jahr in Kinderhand: Mit Fingermalfarbe und halben Äpfeln wurden kleine Kunstwerke gestaltet, die nun die Flaschen zieren. 
+Die Gestaltung der Etiketten für die Saftflaschen lag auch diese Jahr in Kinderhand: Mit Fingermalfarbe und halben Äpfeln wurden kleine Kunstwerke gestaltet, die nun die Flaschen zieren.
 
 Am Mittag versammelten sich alle zum Kürbissuppe Essen und aufwärmen in der großen Küche des Wohnprojekts. Nach einer erholsamen Pause wurde bis in die späten Abendstunden fleißig gepresst so dass am Ende über 100 Liter Apfelsaft abgefüllt werden konnten.
 Wir danken allen HelferInnen für den schönen Apfeltag und freuen uns schon auf nächstes Jahr.  
