@@ -18,7 +18,7 @@ kategorie: Veranstaltung
 
 ## Landwirtschaft nach solidarischem Prinzip
 
-{% include image.html link="/assets/images/bgh.JPG" alt="Das Bürgergemeinschaftshaus Wichmar"%}
+{% include image.html link="/assets/images/22-vortrag-solawi.JPG" alt="Vortrag über solidarisches Landwirtschaften"%}
 <div class="bericht">
   <p> </p>
   <p> </p>
@@ -35,7 +35,6 @@ kategorie: Veranstaltung
 
 ## Energie, Versorgung und Mobilität im Bioenergiedorf Schlöben
 
-{% include image.html link="/assets/images/bgh.JPG" alt="Das Bürgergemeinschaftshaus Wichmar"%}
 <div class="bericht">
   <p> </p>
   <p> </p>
