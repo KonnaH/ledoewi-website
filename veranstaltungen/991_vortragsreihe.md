@@ -18,7 +18,7 @@ kategorie: Veranstaltung
 
 ## Landwirtschaft nach solidarischem Prinzip
 
-{% include image.html link="/assets/images/22-vortrag-solawi.JPG" alt="Vortrag über solidarisches Landwirtschaften"%}
+{% include image.html link="/assets/images/22-vortrag-solawi.jpg" alt="Vortrag über solidarisches Landwirtschaften"%}
 <div class="bericht">
   <p> </p>
   <p> </p>
