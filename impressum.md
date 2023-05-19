@@ -13,11 +13,10 @@ Würchausen 19 <br />
 07774 Wichmar <br />
 Vertreten durch: <br />
 Tabea Seeßelberg <br />
-Jakob Hafemann <br />
+Miriam Morshäuser <br />
 
 ### Kontakt:
 
-Telefon: 036421/235606 (Mi 9-12; Gerne auch auf den Anrufbeantworter sprechen) <br />
 E-Mail: lebendigedoerfer@wichmar.eu <br />
 
 ### Registereintrag:
