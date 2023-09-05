@@ -4,7 +4,7 @@ layout: post
 image: /assets/images/2023-graffitiworkshop.jpg
 datum: 05.09.2023
 ---
-<h3> Graffity-Workshop am 09. September  </h3>
+<h3> Graffiti-Workshop am 09. September  </h3>
 
 Die Garagen auf dem Anger in Wichmar werden voraussichtlich 2024 abgerissen.
 Davor kann die Fläche in Absprache mit dem Gemeinderat von Kindern und Jugendlichen kreativ gestaltet werden. Am Samstag, den 09. September findet von 11 bis ca. 17 Uhr ein Workshop statt, an dem die Außenwand der Garage in ein gemeinsames Kunstwerk verwandelt wird. Herzlich eingeladen zum gemeinsamen Sprayen sind alle Menschen ab 11 Jahre. Vorkenntnisse sind keine nötig!
