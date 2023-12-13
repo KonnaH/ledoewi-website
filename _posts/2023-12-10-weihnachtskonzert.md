@@ -1,7 +1,7 @@
 ---
 title: Einladung zum Weihnachtskonzert
 layout: post
-image: /assets/images/2023-graffitiworkshop.jpg
+image: /assets/images/23-weihnachtskonzert.png
 datum: 05.09.2023
 ---
 <h3> Alle Jahre wieder... </h3>
