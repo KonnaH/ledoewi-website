@@ -1,7 +1,7 @@
 ---
 title: Wie leiste ich Erste Hilfe am Kind?
 layout: post
-image: /assets/images/23_erste-hilfe.jpg
+image: /assets/images/23-erste-hilfe.jpg
 datum: 12.10.2023
 ---
 <h3> Crashkurs am 13. Januar 2024  </h3>
